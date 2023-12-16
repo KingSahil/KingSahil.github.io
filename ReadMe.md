@@ -2,8 +2,7 @@
 I am Sahil Gupta <br>A coder<br>A scientist<br>A basketball player
 
 #🎮 *My Game!*
-How's my game? 
-[Coco The Runner]<br>(https://prosahil.itch.io/coco-the-runner)</br>
+How's my game?<br>[Coco The Runner](https://prosahil.itch.io/coco-the-runner)</br>
 
 
 ## 🌐 Socials:
