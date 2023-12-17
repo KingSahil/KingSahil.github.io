@@ -1,4 +1,3 @@
-<html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -42,38 +41,32 @@
     }
 
     window.onload = function() {
-        setModeBasedOnTime(); // Move this line before toggleMode()
         toggleMode();
+        setModeBasedOnTime();
     };
 </script>
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>💫 About Me:</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="💫 About Me:" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://prosahil.me/" />
 <meta property="og:url" content="http://prosahil.me/" />
+<meta property="og:site_name" content="KingSahil.github.io" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="💫 About Me:" />
-<!-- End Jekyll SEO tag -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"💫 About Me:","name":"KingSahil.github.io","url":"http://prosahil.me/"}</script>
 
     <link rel="stylesheet" href="/assets/css/style.css?v=8737f1e8dd8133de2714d8fe183a5a58dca8f8cb">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
 
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://prosahil.me/">KingSahil.github.io</a></h1>
       
 
       <h1 id="-about-me">💫 About Me:</h1>
@@ -83,6 +76,8 @@
 <p>How’s my game?<br /><a href="https://prosahil.itch.io/coco-the-runner">Coco The Runner</a></p>
 
 <h1 id="-repository">🫙 Repository</h1>
+<p><a href="https://github.com/KingSahil/KingSahil.github.io">KingSahil</a></p>
+
 <h2 id="-donation">💸 Donation:</h2>
 <p><a href="https://ko-fi.com/kingsahil"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>
 
@@ -108,7 +103,6 @@
 <hr />
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=KingSahil&amp;icon=0&amp;color=0" alt="" /></a></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
       
