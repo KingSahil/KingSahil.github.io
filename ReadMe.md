@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -48,7 +48,7 @@
 </script>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>💫 About Me: | KingSahil.github.io</title>
+<title>💫 About Me:</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="💫 About Me:" />
 <meta property="og:locale" content="en_US" />
