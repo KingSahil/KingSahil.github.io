@@ -52,12 +52,9 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://prosahil.me/" />
 <meta property="og:url" content="http://prosahil.me/" />
-<meta property="og:site_name" content="KingSahil.github.io" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="💫 About Me:" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"💫 About Me:","name":"KingSahil.github.io","url":"http://prosahil.me/"}</script>
 
     <link rel="stylesheet" href="/assets/css/style.css?v=8737f1e8dd8133de2714d8fe183a5a58dca8f8cb">
 
@@ -65,8 +62,6 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="http://prosahil.me/">KingSahil.github.io</a></h1>
       
 
       <h1 id="-about-me">💫 About Me:</h1>
