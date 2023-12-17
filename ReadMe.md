@@ -75,8 +75,6 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="http://prosahil.me/">KingSahil.github.io</a></h1>
-      
 
       <h1 id="-about-me">💫 About Me:</h1>
 <p>I am Sahil Gupta <br />A coder<br />A scientist<br />A basketball player</p>
@@ -85,8 +83,6 @@
 <p>How’s my game?<br /><a href="https://prosahil.itch.io/coco-the-runner">Coco The Runner</a></p>
 
 <h1 id="-repository">🫙 Repository</h1>
-<p><a href="https://github.com/KingSahil/KingSahil.github.io">KingSahil</a></p>
-
 <h2 id="-donation">💸 Donation:</h2>
 <p><a href="https://ko-fi.com/kingsahil"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="&quot;Buy Me A Coffee&quot;" /></a></p>
 
